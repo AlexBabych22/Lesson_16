@@ -83,7 +83,7 @@
 }
 
 .container_padding{
-    max-width: 1440px;
+    max-width: 1850px;
     min-width: 375px;
     padding-left: 20px;
     margin: auto;
@@ -107,20 +107,6 @@
 }
 
 
-.container_margin{
-    max-width: 1440px;
-    min-width: 375px;
-    margin-left: 20px;
-    margin-right: 20px;
-    @media screen and (min-width:768px) {
-        margin-left: 40px;
-        margin-right: 40px;
-    }
-    @media screen and (min-width:1300px) {
-        margin-left: 116px;
-        margin-right: 116px;
-    }
-}
 .bg-fonts{
     background-color: #222021;
 }
